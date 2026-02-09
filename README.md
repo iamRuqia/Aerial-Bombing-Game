@@ -1,6 +1,6 @@
-# Aerial-Bombing-Game
+# Aerial-Bombing
 My first CPP Game
-Air Bombardment Game (بمباران هوایی)
+ (بمباران هوایی)
 =====================================================================================================================================
 
 A classic terminal-based aerial bombardment game written in C++ using Windows Console API. Control an airplane, drop bombs on buildings, and navigate through a cityscape while avoiding collisions.
